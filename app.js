@@ -5,6 +5,7 @@ const app = express()
 
 
 app.use(express.static('public'))
+app.use(routes)
 
 app.set("view engine", "njk")
 
