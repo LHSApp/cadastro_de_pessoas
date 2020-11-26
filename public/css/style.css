@@ -33,5 +33,15 @@ header {
 .links a {
 
   text-decoration: none;
+  color: #777;
+
+
+}
+
+
+.links a.active {
+
+
+  
 
 }
