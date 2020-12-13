@@ -68,3 +68,11 @@ color: var(--primary-color);
   width: 100%;
   transition:width 1000ms ease-in-out;
 }
+
+/* === CARD ===*/
+.card {
+  background-color: white;
+  width:  800px;
+  height: 400px;
+  margin: 45px auto;
+}
